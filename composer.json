@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.5.0",
         "twig/twig": "^3.0",
-        "slim/flash": "^0.1"
+        "slim/flash": "^0.4"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "1.*",
