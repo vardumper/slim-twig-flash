@@ -1,5 +1,5 @@
 {
-    "name": "kanellov/slim-twig-flash",
+    "name": "vardumper/slim-twig-flash",
     "type": "library",
     "description": "A Twig extension to access Slim Flash messages in templates",
     "license": "GPL-3.0-or-later",
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "twig/twig": "^1.0",
+        "twig/twig": "^3.0",
         "slim/flash": "^0.1"
     },
     "require-dev": {
